@@ -17,10 +17,14 @@ MCU：STC89C52RC
 
 硬件开发工具：Altium Designer Version 21.2.2 (Build 38)
 
-# 硬件框图
+# 设计框图
 
+![](assets/hardware_inf.png)
 
 # 软件流程
 
+![](assets/firmware_inf.png)
 
 # 最终成品
+
+![](assets/done.jpg)
